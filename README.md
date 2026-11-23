@@ -1,5 +1,5 @@
-Legendary developer, professional UX designer, third-generation leader of [gentoo-zh](https://gentoozh.org/), heir of dea, and the cutest kitty~<br>
-传奇开发者、专业UX设计师、[gentoo-zh](https://gentoozh.org/) 第三代掌门人、dea 传人、最可爱的喵~
+Legendary developer, professional UX designer, third-generation leader of [gentoo-zh](https://gentoozh.org/), heir of [dea](https://github.com/daeuniverse/honk), and the cutest kitty~<br>
+传奇开发者、专业UX设计师、[gentoo-zh](https://gentoozh.org/) 第三代掌门人、[dea](https://github.com/daeuniverse/honk) 传人、最可爱的喵~
 
 ## Skills & Specialization<br>
 技能与专长
